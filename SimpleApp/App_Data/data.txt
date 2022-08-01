@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, new mibile, 2
+2, Laptop, 3200, TOP model Lenovo, 1
+3, Keyboard, 35, 3000 buttons, 100
+4, Mouse, 10, 100 buttons mouse, 0
+5, Pen, 1, default pen, 10000
+6, Notebook, 1, Notebook with stream, 5000
